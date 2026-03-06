@@ -18,18 +18,18 @@
   },
   "license": "MIT",
   "dependencies": {
-    "dotenv": "8.0.0",
-    "express": "^4.16.4",
-    "helmet": "3.19.0",
-    "morgan": "^1.9.1"
+    "dotenv": "17.3.1",
+    "express": "^5.2.1",
+    "helmet": "8.1.0",
+    "morgan": "^1.10.1"
   },
   "devDependencies": {
-    "eslint": "6.0.1",
-    "eslint-config-airbnb-base": "13.2.0",
-    "eslint-plugin-import": "2.18.0",
-    "mocha": "6.2.0",
-    "nodemon": "^1.18.9",
-    "snyk": "1.194.0",
-    "supertest": "4.0.2"
+    "eslint": "10.0.2",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "2.32.0",
+    "mocha": "11.7.5",
+    "nodemon": "^3.1.14",
+    "snyk": "1.1303.1",
+    "supertest": "7.2.2"
   }
 }
